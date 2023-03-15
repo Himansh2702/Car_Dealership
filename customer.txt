@@ -1,0 +1,98 @@
+{} - Completed
+[] - Current
+() - Future plans
+
+[
+BUY/SELL:
+message seller/buyer
+if wronge input it goes to main page again
+int wale ques main strings dalke koi error nahi aata hai
+ 
+buyer-
+in talk to seller instead of 'enter' to stop writing change it to ecs or specify more properly 
+feedback not working
+in filter - instead of model no write above what model year  
+odometer problem
+remove from whislist rehe gaya
+
+seller-
+DOB main dd/mm/yyyy dalega 
+press 'n' pe seller registration complete dikha raha hai(return dalna hai)
+
+in sell,verify a car create a edit coloum 
+print description sep
+mark as sold error- jo serial no nahi hai usmai bhi sold dikha rha hai 
+display mein error mark as sold is not updated in python but is updated in mysql
+]
+
+()
+
+{
+BUY:
+nessesary details
+price range
+seats(less than 5 or more than 5)
+fuel type(any)
+transmission type(any)
+
+Filters:
+mileage 
+above what year
+km driven
+:-talk to seller
+
+
+LOGIN:
+change password
+How may i help you?
+:- Report an issue
+:- Ask a question
+:- Report a bug
+
+
+SELL:
+RESGISTERED OR DO YOU WANT TO REGISTER?
+Seller: Full Name, number, permanent adress, DOB, email id, alternate contact, (adhaar, pan, passport, DL)document
+
+Seller Registeration:
+Adhaar, dl, other
+
+Car verification: 
+RC number, insurance(applied date and expire date), pollution(applied date and expire date), type of seller(first or second)
+see details of the car(aprooved, sold etc)
+Make changes in the details of the cars
+mark your car sold
+
+Description of car:
+Message from seller
+name of car with model no 
+year of purchased 
+odometer driven 
+fuel type
+transmission_type
+Mileage
+Seats
+Engine
+Horse Power 
+
+
+MANAGER:
+Add a new staff
+Remove a staff
+Display all the manager
+gaadi verification
+df.loc[len(df.index)] = ['Amy', 89, 93] 
+answer queries
+
+
+CHANGES:
+BUY:
+Not sure in price and no of seats
+Remove horse power and engine number
+remove engine
+New password ka verification karna hai
+print before picking
+check for empty df after filters
+}
+
+
